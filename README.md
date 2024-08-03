@@ -83,4 +83,4 @@ The logistic regression model achieved an accuracy of 99% on the test dataset, d
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/breast-cancer-logistic-regression.git
+   git clone https://github.com/OmarMedhatDev/breast-cancer-logistic-regression.git
