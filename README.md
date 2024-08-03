@@ -59,19 +59,16 @@ The logistic regression model achieved an accuracy of 99% on the test dataset, d
 
 ### Example Plots
 
-1. **Distribution of Tumor Classes**
+1. **Correlation Heatmap**
 
-   ![Distribution of Tumor Classes](images/distribution_plot.png)
+   ![Correlation Heatmap](![image](https://github.com/user-attachments/assets/be3bcae9-0546-45e2-bc79-e7c6fd505307)
+)
 
-2. **Correlation Heatmap**
-
-   ![Correlation Heatmap](images/correlation_heatmap.png)
-
-3. **ROC Curve**
+2. **ROC Curve**
 
    ![ROC Curve](images/roc_curve.png)
 
-4. **Confusion Matrix**
+3. **Confusion Matrix**
 
    ![Confusion Matrix](images/confusion_matrix.png)
 
