@@ -61,8 +61,7 @@ The logistic regression model achieved an accuracy of 99% on the test dataset, d
 
 1. **Correlation Heatmap**
 
-   ![Correlation Heatmap](![image](https://github.com/user-attachments/assets/be3bcae9-0546-45e2-bc79-e7c6fd505307)
-)
+   ![Correlation Heatmap](images/correlation_heatmap.png)
 
 2. **ROC Curve**
 
